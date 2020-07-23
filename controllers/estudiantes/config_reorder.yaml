@@ -1,0 +1,4 @@
+title: Estudiantes
+modelClass: Jguerreroz\Sistemadeinformacion\Models\Estudiantes
+toolbar:
+    buttons: reorder_toolbar

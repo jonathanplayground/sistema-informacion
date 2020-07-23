@@ -1,0 +1,10 @@
+name: Estudiantes
+form: $/jguerreroz/sistemadeinformacion/models/estudiantes/fields.yaml
+modelClass: Jguerreroz\Sistemadeinformacion\Models\Estudiantes
+defaultRedirect: jguerreroz/sistemadeinformacion/estudiantes
+create:
+    redirect: 'jguerreroz/sistemadeinformacion/estudiantes/update/:id'
+    redirectClose: jguerreroz/sistemadeinformacion/estudiantes
+update:
+    redirect: jguerreroz/sistemadeinformacion/estudiantes
+    redirectClose: jguerreroz/sistemadeinformacion/estudiantes

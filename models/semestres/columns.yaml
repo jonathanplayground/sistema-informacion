@@ -1,0 +1,10 @@
+columns:
+    id:
+        label: id
+        type: number
+    nombre:
+        label: nombre
+        type: text
+    id_curso:
+        label: id_curso
+        type: number

@@ -1,0 +1,4 @@
+title: Cohortes
+modelClass: Jguerreroz\Sistemadeinformacion\Models\Cohortes
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,5 @@
+fields:
+    cohorte_fecha:
+        label: 'fecha de cohorte'
+        span: auto
+        type: text

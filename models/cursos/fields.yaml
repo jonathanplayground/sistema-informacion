@@ -1,0 +1,27 @@
+fields:
+    nombre:
+        label: Nombre
+        span: auto
+        type: text
+    id_curso:
+        label: Código
+        span: auto
+        type: number
+    creditos:
+        label: Creditos
+        span: auto
+        type: number
+    h_asignado:
+        label: 'Horas asignadas'
+        span: auto
+        type: number
+    h_autonomo:
+        label: 'Horas autonomas'
+        span: auto
+        type: number
+    semestre:
+        label: Semestre
+        nameFrom: nombre
+        descriptionFrom: Semestre
+        span: auto
+        type: relation

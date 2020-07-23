@@ -1,0 +1,8 @@
+columns:
+    id:
+        label: id
+        type: number
+    cohorte_fecha:
+        label: cohorte_fecha
+        type: text
+        searchable: true

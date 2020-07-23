@@ -1,0 +1,12 @@
+list: $/jguerreroz/sistemadeinformacion/models/cohortes/columns.yaml
+modelClass: Jguerreroz\Sistemadeinformacion\Models\Cohortes
+title: Cohortes
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'jguerreroz/sistemadeinformacion/cohortes/update/:id'

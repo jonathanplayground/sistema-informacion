@@ -1,0 +1,9 @@
+fields:
+    nombre:
+        label: Nombre
+        span: auto
+        type: text
+    plan_estudios:
+        label: 'Plan de estudios'
+        span: auto
+        type: text

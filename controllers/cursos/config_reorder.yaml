@@ -1,0 +1,4 @@
+title: Cursos
+modelClass: Jguerreroz\Sistemadeinformacion\Models\Cursos
+toolbar:
+    buttons: reorder_toolbar

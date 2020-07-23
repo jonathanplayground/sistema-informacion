@@ -1,0 +1,23 @@
+plugin:
+    name: 'jguerreroz.sistemadeinformacion::lang.plugin.name'
+    description: 'jguerreroz.sistemadeinformacion::lang.plugin.description'
+    author: jguerreroz
+    icon: oc-icon-archive
+    homepage: ''
+navigation:
+    Estudiantes:
+        label: Estudiantes
+        url: jguerreroz/sistemadeinformacion/estudiantes
+        icon: icon-github-alt
+    semestres:
+        label: Semestres
+        url: jguerreroz/sistemadeinformacion/semestre
+        icon: icon-bookmark
+    Cursos:
+        label: Cursos
+        url: jguerreroz/sistemadeinformacion/cursos
+        icon: icon-file-text
+    cohortes:
+        label: Cohortes
+        url: jguerreroz/sistemadeinformacion/cohortes
+        icon: icon-arrows-alt

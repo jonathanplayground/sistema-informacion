@@ -1,0 +1,10 @@
+name: Semestre
+form: $/jguerreroz/sistemadeinformacion/models/semestres/fields.yaml
+modelClass: Jguerreroz\Sistemadeinformacion\Models\Semestres
+defaultRedirect: jguerreroz/sistemadeinformacion/semestre
+create:
+    redirect: 'jguerreroz/sistemadeinformacion/semestre/update/:id'
+    redirectClose: jguerreroz/sistemadeinformacion/semestre
+update:
+    redirect: jguerreroz/sistemadeinformacion/semestre
+    redirectClose: jguerreroz/sistemadeinformacion/semestre

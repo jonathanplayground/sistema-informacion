@@ -1,0 +1,12 @@
+columns:
+    id:
+        label: id
+        type: number
+    nombre:
+        label: nombre
+        type: text
+        searchable: true
+    plan_estudios:
+        label: plan_estudios
+        type: text
+        searchable: true

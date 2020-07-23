@@ -1,0 +1,12 @@
+list: $/jguerreroz/sistemadeinformacion/models/semestres/columns.yaml
+modelClass: Jguerreroz\Sistemadeinformacion\Models\Semestres
+title: Semestre
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'jguerreroz/sistemadeinformacion/semestre/update/:id'

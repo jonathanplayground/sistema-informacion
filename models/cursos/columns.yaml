@@ -1,0 +1,22 @@
+columns:
+    id:
+        label: id
+        type: number
+    nombre:
+        label: nombre
+        type: text
+    id_curso:
+        label: id_curso
+        type: number
+    creditos:
+        label: creditos
+        type: number
+    h_asignado:
+        label: h_asignado
+        type: number
+    h_autonomo:
+        label: h_autonomo
+        type: number
+    id_semestre:
+        label: id_semestre
+        type: number

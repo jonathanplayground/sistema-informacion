@@ -1,0 +1,10 @@
+name: Cursos
+form: $/jguerreroz/sistemadeinformacion/models/cursos/fields.yaml
+modelClass: Jguerreroz\Sistemadeinformacion\Models\Cursos
+defaultRedirect: jguerreroz/sistemadeinformacion/cursos
+create:
+    redirect: 'jguerreroz/sistemadeinformacion/cursos/update/:id'
+    redirectClose: jguerreroz/sistemadeinformacion/cursos
+update:
+    redirect: jguerreroz/sistemadeinformacion/cursos
+    redirectClose: jguerreroz/sistemadeinformacion/cursos

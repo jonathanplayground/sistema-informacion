@@ -1,0 +1,10 @@
+name: Cohortes
+form: $/jguerreroz/sistemadeinformacion/models/cohortes/fields.yaml
+modelClass: Jguerreroz\Sistemadeinformacion\Models\Cohortes
+defaultRedirect: jguerreroz/sistemadeinformacion/cohortes
+create:
+    redirect: 'jguerreroz/sistemadeinformacion/cohortes/update/:id'
+    redirectClose: jguerreroz/sistemadeinformacion/cohortes
+update:
+    redirect: jguerreroz/sistemadeinformacion/cohortes
+    redirectClose: jguerreroz/sistemadeinformacion/cohortes
